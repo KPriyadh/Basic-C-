@@ -1,5 +1,0 @@
-C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\Assignemt\EmployeePayroll\obj\Debug\net7.0\EmployeePayroll.csproj.AssemblyReference.cache
-C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\Assignemt\EmployeePayroll\obj\Debug\net7.0\EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\Assignemt\EmployeePayroll\obj\Debug\net7.0\EmployeePayroll.AssemblyInfoInputs.cache
-C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\Assignemt\EmployeePayroll\obj\Debug\net7.0\EmployeePayroll.AssemblyInfo.cs
-C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\Assignemt\EmployeePayroll\obj\Debug\net7.0\EmployeePayroll.csproj.CoreCompileInputs.cache
